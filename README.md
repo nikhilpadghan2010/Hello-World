@@ -15,6 +15,9 @@ a quotation from a text or speech.
 2.
 a quotation giving the estimated cost for a particular job or service.
 "quotes from different insurance companies"
-nikhil
+
+nikhilpadghan
+
+
 
 Demo repository for training purpose
