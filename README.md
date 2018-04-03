@@ -16,9 +16,13 @@ a quotation from a text or speech.
 a quotation giving the estimated cost for a particular job or service.
 "quotes from different insurance companies"
 
+<<<<<<< HEAD
 
 nikhilpadghan2010Now changed
+=======
+nikhilpadghan2010@gmail.com
 
+>>>>>>> parent of 644ca8b... Merge branch 'master' into readme
 
 
 Demo repository for training purpose
